@@ -1,0 +1,8 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+      "agent": "./test_sdk.ts:runnable"
+    },
+    "env": ".env"
+}
+  

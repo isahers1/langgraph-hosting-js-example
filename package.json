@@ -1,0 +1,19 @@
+{
+  "name": "langgraph",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "testing for langgraph",
+  "main": "test_sdk.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isaac",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/anthropic": "^0.2.1",
+    "@langchain/community": "^0.2.11",
+    "@langchain/langgraph": "^0.0.23",
+    "@langchain/langgraph-sdk": "^0.0.1-rc.11",
+    "better-sqlite3": "^9.6.0"
+  }
+}
